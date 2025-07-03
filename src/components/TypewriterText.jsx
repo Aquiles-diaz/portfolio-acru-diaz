@@ -24,12 +24,12 @@ export default function TypewriterText({ text = "" }) {
   return (
     <motion.h1
       className="text-3xl sm:text-4xl md:text-5xl font-bold mt-6 text-white leading-snug font-mono whitespace-nowrap"
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      transition={{ duration: 0.3 }}
+      initial={{ opacity: 2 }}
+      animate={{ opacity: 2 }}
+      transition={{ duration: 1.0 }}
     >
       {displayedText}
-      <span className="animate-pulse text-emerald-400">|</span>
+      <span className="animate-pulse text-blue-500">|</span>
     </motion.h1>
   );
 }
