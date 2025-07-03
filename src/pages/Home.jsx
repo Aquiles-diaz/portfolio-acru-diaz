@@ -71,7 +71,7 @@ transition={{ repeat: Infinity, duration: 10 }}
 
     <div className="flex gap-6 flex-wrap justify-center">
       <a
-        href="https://www.linkedin.com/in/aquilesdiaz"
+        href="https://www.linkedin.com/in/aquiles-diaz"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-2 px-5 py-2.5 bg-white text-blue-700 rounded-full font-semibold text-sm shadow-sm hover:bg-blue-50 transition"
@@ -83,7 +83,7 @@ transition={{ repeat: Infinity, duration: 10 }}
       </a>
 
       <a
-        href="mailto:benjacardosolapalma08@gmail.com"
+        href="mailto:aquilesdiaz335@gmail.com"
         className="inline-flex items-center gap-2 px-5 py-2.5 bg-black text-white border border-white rounded-full font-semibold text-sm shadow-sm hover:bg-white hover:text-black transition"
       >
         <svg
@@ -145,7 +145,7 @@ transition={{ repeat: Infinity, duration: 10 }}
     animate={{ y: 0, opacity: 1 }}
     transition={{ delay: 1, duration: 0.7 }}
   >
-    <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/Aquiles-diaz" target="_blank" rel="noopener noreferrer">
       <button className="flex items-center px-5 py-2 text-sm font-semibold text-white bg-zinc-900 rounded-full shadow-md hover:bg-zinc-800 transition">
         <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
           <path d="M12 0C5.4 0 0 5.4 0 12c0 5.3 3.4 9.8 8 11.4.6.1.8-.2.8-.6v-2.2c-3.3.7-4-1.6-4-1.6-.5-1.2-1.2-1.5-1.2-1.5-1-.6.1-.6.1-.6 1.1.1 1.7 1.1 1.7 1.1 1 .1 1.5 1 1.5 1 .9 1.6 2.5 1.1 3 .8.1-.7.4-1.1.7-1.3-2.6-.3-5.3-1.3-5.3-6 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.6.1-3.3 0 0 1-.3 3.2 1.2.9-.3 1.8-.4 2.8-.4s1.9.1 2.8.4c2.2-1.5 3.2-1.2 3.2-1.2.6 1.7.2 3 .1 3.3.8.9 1.2 2 1.2 3.1 0 4.7-2.7 5.7-5.3 6 .4.3.7.9.7 1.8v2.7c0 .4.2.7.8.6 4.6-1.6 8-6.1 8-11.4C24 5.4 18.6 0 12 0z" />
