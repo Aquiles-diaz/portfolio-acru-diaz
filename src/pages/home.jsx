@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import ChatWidget from "../components/ChatWidget"; // Asegurate que la ruta esté correcta
 import profilePic from "../assets/aquiles.jpg";
 
 export default function Home() {
@@ -164,6 +165,7 @@ export default function Home() {
             Star on GitHub
           </button>
         </a>
+        <ChatWidget />
       </motion.div>
     </motion.div>
   );
